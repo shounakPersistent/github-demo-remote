@@ -10,6 +10,9 @@ y = max(5, 10, 25)
 print(x)
 print(y)
 
+#on main local 
+return(x/y*y)
+
 <<<<<<< HEAD
 #divide ()
 x = x/y           #on master 
