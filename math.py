@@ -25,3 +25,6 @@ return(x)
 #just some changes on Bug 123 
 x = x + y 
 return(x+y)
+
+#subtract function 
+return(x-y)
