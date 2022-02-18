@@ -20,3 +20,7 @@ x = x/y           #on master
 
 #sqroot
 x= sqroot(y);
+
+#just some changes on Bug 123 
+x = x + y 
+return(x+y)
